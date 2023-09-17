@@ -43,11 +43,11 @@
 
 ### Multivariate Analysis 
 
-![Alt text](images/salesandtransactions.png)
+![Alt text](image/salesandtransactions.png)
 
-![Alt text](images/transactionbystores.png)
+![Alt text](image/transactionbystores.png)
 
-![Alt text](images/salesforholiday.png)
+![Alt text](image/salesforholiday.png)
 
 ## Hypothesis development
 
@@ -60,23 +60,23 @@ based on chi-square test, we observe that the p-value is less than alpha, hence 
 ## Business questions
 1. Does store size affect total sales?? 
 
-![Alt text](images/cluster.png)
+![Alt text](image/cluster.png)
 
 2. Did the earthquake impact sales?
 
-![Alt text](images/earthquake.png)
+![Alt text](image/earthquake.png)
 
 3. Are sales affected by promotions?
 
-![Alt text](images/promotedandnonpromoted.png)
+![Alt text](image/promotedandnonpromoted.png)
 
 4. What are the best-selling products?
 
-![Alt text](images/product.png)
+![Alt text](image/product.png)
 
 5.Which days have the most sales?
 
-![Alt text](images/dayofsalesbyweek.png)
+![Alt text](image/dayofsalesbyweek.png)
 
 
 
