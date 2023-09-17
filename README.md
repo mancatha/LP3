@@ -39,6 +39,8 @@
 
 ![Alt text](image/product.png)
 
+![Alt text](image/daysofsalesbyweek.png)
+
 ### Multivariate Analysis 
 
 ![Alt text](images/salesandtransactions.png)
