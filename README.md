@@ -29,15 +29,15 @@
 
 ### Univariate Analysis
 
-![Alt text](images/oil.png)
+![](images/oil.png)
 
-![Alt text](images/cities.png)
+![](images/cities.png)
 
-![Alt text](images/monthlysales.png)
+![](images/monthlysales.png)
 
-![Alt text](images/monthlysales.png)
+![](images/monthlysales.png)
 
-![Alt text](images/product.png)
+![](images/product.png)
 
 ### Multivariate Analysis 
 
